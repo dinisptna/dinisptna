@@ -2,8 +2,8 @@
 
 🎓 Data Science student at ULBI with a passion for numbers and insights<br/> 
 🤖 Focused on building intelligent systems with Machine Learning</br>  
-📊 I love creating interactive dashboards to make data more useful
-📋 I share my journey in dashboards on [tableau](https://public.tableau.com/app/profile/dini.septiana/vizzes)
+📊 I love creating interactive dashboards to make data more useful</br>
+📋 I share my journey in dashboards on [tableau](https://public.tableau.com/app/profile/dini.septiana/vizzes)</br>
 
 
 ## 🌐 Socials:
