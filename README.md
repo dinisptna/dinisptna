@@ -1,9 +1,9 @@
 ## Hi, I'm Dinse ✨
 
 🎓 Data Science undergraduate at ULBI, passionate about turning data into actionable insights<br/>
-🤖 Specializing in intelligent system development using Machine Learning techniques<br/>
-📊 Enthusiastic about building interactive dashboards that transform raw data into clear stories<br/>
-📋 Currently sharing my data visualization journey through [Tableau](https://public.tableau.com/app/profile/dini.septiana/vizzes) projects<br/>
+Specializing in intelligent system development using Machine Learning techniques<br/>
+Enthusiastic about building interactive dashboards that transform raw data into clear stories<br/>
+Currently sharing my data visualization journey through [Tableau](https://public.tableau.com/app/profile/dini.septiana/vizzes) projects<br/>
 
 
 
